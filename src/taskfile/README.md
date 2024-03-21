@@ -7,7 +7,7 @@ Taskfile is a task runner / build tool that aims to be simpler and easier to use
 
 ```json
 "features": {
-    "ghcr.io/audacioustux/devcontainers/taskfile:1": {}
+    "ghcr.io/NafiAsib/audacious-devcontainers/taskfile:1": {}
 }
 ```
 
@@ -17,4 +17,4 @@ Taskfile is a task runner / build tool that aims to be simpler and easier to use
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/audacioustux/devcontainers/blob/main/src/taskfile/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/NafiAsib/audacious-devcontainers/blob/main/src/taskfile/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
